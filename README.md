@@ -233,7 +233,7 @@ Three implementation choices that the paper leaves open are made explicit here:
 @inproceedings{lgsa2026,
   title     = {From Small to Large: Cross-Scale Graph Domain Adaptation via
                Local-Global Structural Alignment},
-  author    = {Anonymous},
+  author    = {Ruiyi Fang, Gezheng Xu, Qiuhao Zeng, Zihao Jing, Jiale Cai, Zhihao Li, Hao Zheng, Xuanting Xie, Shuo Wang, Bingheng Li, Ruizhi Pu, Zhao Kang, Charles Ling, Boyu Wang},
   booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
   year      = {2026}
 }
